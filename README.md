@@ -4,24 +4,27 @@ Aplicaciones y proyecto final realizadas en clase de Ingeniería de software 2 e
 
 ## Construido con 🛠️
 
-* Node js
-* Express
-* Docker
+* [Node js](https://nodejs.org/es) 🟩
+* [Express](https://expressjs.com/) 💻
+* [Docker](https://www.docker.com/) 🐳
+* HTML5 :skull:
+* JavaScript :brain:	
+* CSS :cowboy_hat_face:	
 
 ## Autores ✒️
 
-* **Josh Trejo** - *Autos y Libros API REST y base de datos en IS2_PROYECTO_THE_FOUNDATION-main* - [Josh Trejo](https://github.com/jorgejoshuatt)
+* **Josh Trejo** - *API REST de Autos y Libros, base de datos y backend en IS2_PROYECTO_THE_FOUNDATION* - [Josh Trejo](https://github.com/jorgejoshuatt)
 
-* Bautista Gonzalez Francisco Paulo - *IS2_PROYECTO_THE_FOUNDATION-main* - paulobautista49@aragon.unam.mx
+* Bautista Gonzalez Francisco Paulo - *Frontend en IS2_PROYECTO_THE_FOUNDATION* - paulobautista49@aragon.unam.mx
 
-* Gonzalez Millan Mario Alberto - *IS2_PROYECTO_THE_FOUNDATION-main* - mariogonzalez62@aragon.unam.mx
+* Gonzalez Millan Mario Alberto - *Frontend en IS2_PROYECTO_THE_FOUNDATION* - mariogonzalez62@aragon.unam.mx
 
-* Gonzalez Lopez Karen Alejandra - *IS2_PROYECTO_THE_FOUNDATION-main* - karengonzalez01@aragon.unam.mx
+* Gonzalez Lopez Karen Alejandra - *Frontend en IS2_PROYECTO_THE_FOUNDATION* - karengonzalez01@aragon.unam.mx
 
-* Morales Balderrama Carlos Alberto - *IS2_PROYECTO_THE_FOUNDATION-main* - carlosmorales40@aragon.unam.mx
+* Morales Balderrama Carlos Alberto - *Backend en IS2_PROYECTO_THE_FOUNDATION* - carlosmorales40@aragon.unam.mx
 
-* Pérez Fernández Isaac - *IS2_PROYECTO_THE_FOUNDATION-main* - isaacperez84@aragon.unam.mx
+* Pérez Fernández Isaac - *Frontend en IS2_PROYECTO_THE_FOUNDATION* - isaacperez84@aragon.unam.mx
 
-* Soberanes Ramírez Rubén Sebastián - *IS2_PROYECTO_THE_FOUNDATION-main* - rubensoberanes53@aragon.unam.mx
+* Soberanes Ramírez Rubén Sebastián - *Frontend en IS2_PROYECTO_THE_FOUNDATION* - rubensoberanes53@aragon.unam.mx
 
-* Cruz Gallardo Pablo Eduardo - *IS2_PROYECTO_THE_FOUNDATION-main* - pablocruz92@aragon.unam.mx
+* Cruz Gallardo Pablo Eduardo - *Backend en IS2_PROYECTO_THE_FOUNDATION* - pablocruz92@aragon.unam.mx
