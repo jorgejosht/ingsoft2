@@ -5,7 +5,7 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 var methodOverride=require('method-override');
 var mongoose = require('mongoose');
-mongoose.connect('mongodb+srv://admin_lol:4yXZQhExL8QrdxHS@cluster0.re5xb.mongodb.net/lol_db?retryWrites=true&w=majority', { useNewUrlParser: true });
+mongoose.connect('mongodb+srv://jorgejoshuat:seYj9Dp36rgQG2E3@clustertallermongodb.pejtrku.mongodb.net/jwt_security?retryWrites=true&w=majority', { useNewUrlParser: true });
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
