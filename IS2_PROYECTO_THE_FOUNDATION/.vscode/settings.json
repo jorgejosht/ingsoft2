@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/620d7845-6f8c-485d-b396-e991fff44880/resourceGroups/Usuarios/providers/Microsoft.Web/sites/PoyoUsuarios",
+    "appService.deploySubpath": "src",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}

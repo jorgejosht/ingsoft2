@@ -1,0 +1,41 @@
+<body style="background-color:#07121A;">
+    <br>
+    <div class="container-fluid rounded fondo">
+        <br>
+        <table class="table rounded letraLOL" style="color:white; text-align:center; width:100%">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Rol</th>
+                    <th scope="col"></th>
+                    <th scope="col">Acciones</th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#each contenido}}
+                <tr>
+                    <td>{{this.id}}</td>
+                    <td>{{this.nombre_campeon}}</td>
+                    <td>{{this.rol}}</td>
+                    <td>
+                        <form action="https://personajeslol.azurewebsites.net/campeones/{{this.id}}" method="GET">
+                            <button  type="submit" class="btn btn-white">Ver</button>
+                        </form>
+                    </td>
+                    <td><form action="https://personajeslol.azurewebsites.net/campeones/modificar/{{this._id}}" method="GET">
+                            <button type="submit" class="btn btn-white">Editar</button>
+                        </form></td>
+                    <td>
+                        <form action="https://personajeslol.azurewebsites.net/campeones/{{this.id}}?_method=DELETE" method="post">
+                            <button type="submit" class="btn btn-danger">Eliminar</button>
+                        </form>
+                    </td>
+                </tr>
+                {{/each}}
+            </tbody>
+        </table>
+        <br>
+    </div>
+</body>
