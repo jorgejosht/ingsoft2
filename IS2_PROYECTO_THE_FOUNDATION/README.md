@@ -1,6 +1,6 @@
 # Ingeniería de Software 2.
 
-Programas REST y proyecto final realizados en clase de Ingeniería de software 2 en la Facultad de Estudios Superiores Aragón.
+Proyecto final realizado en clase de Ingeniería de software 2 en la Facultad de Estudios Superiores Aragón.
 
 ## Construido con 🛠️
 
